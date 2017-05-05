@@ -11,6 +11,6 @@ public class ResultPage {
 	}
 	
     public String getText() {
-        return driver.findElement(By.xpath("//p")).getText();
+        return driver.findElement(By.xpath("//p[@name='main']")).getText();
     }
 }

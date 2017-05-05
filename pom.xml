@@ -12,11 +12,11 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     
     <!-- Maven Properties -->
-    <maven-compiler.version>3.2</maven-compiler.version>
-    <maven-surefire.version>2.18</maven-surefire.version>
+    <maven-compiler.version>3.6.1</maven-compiler.version>
+    <maven-surefire.version>2.20</maven-surefire.version>
     
     <!-- JUnit Properties -->
-    <junit.version>4.11</junit.version>
+    <junit.version>4.12</junit.version>
     
     <!-- Selenium Properties -->
     <selenium-java.version>3.4.0</selenium-java.version>

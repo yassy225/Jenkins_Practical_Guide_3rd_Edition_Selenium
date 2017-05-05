@@ -32,7 +32,7 @@ https://gihyo.jp/site/inquiry/book?978-4-7741-7423-5
 未修整状態のsampleprojectを利用した場合、いくつかのテストが失敗します。
 下記の環境にて動作を確認済です。(確認日: 2017年4月24日)
 * Apache Maven 3.5.0
-* Java SE Development Kit 8u121 (JDK 8 Update 121)
+* Java SE Development Kit 8u131 (JDK 8 Update 131)
 * Firefox 53
 
 Firefoxの最新版を利用した場合、Seleniumのテストコードが正常に実行できない場合があります。その場合、pom.xmlの下記の部分のバージョンを最新版のSeleniumのバージョンに変更してください。

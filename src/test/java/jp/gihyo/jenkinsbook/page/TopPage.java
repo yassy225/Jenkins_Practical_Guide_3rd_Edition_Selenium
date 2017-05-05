@@ -41,7 +41,7 @@ public class TopPage {
     
     public boolean hasSubmit() {
 		try {
-			driver.findElement(By.xpath("//input[@type='submit' and @name='submit']"));
+			driver.findElement(By.xpath("//input[@type='submit' and @name='send']"));
 		} catch(NoSuchElementException e) {
 			return false;
 		}
@@ -61,6 +61,6 @@ public class TopPage {
 
     public void submit() {
 		driver.findElement(By.xpath(
-				"//input[@type='submit' and @name='submit']")).submit();
+				"//input[@type='submit' and @name='send']")).submit();
 	}
 }
