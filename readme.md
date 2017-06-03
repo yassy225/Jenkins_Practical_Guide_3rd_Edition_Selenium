@@ -24,8 +24,8 @@ http://opensource.org/licenses/mit-license.php
 本ページ上部にある「Download ZIP」ボタンを押すと、最新のソースコードがダウンロードできます。Gitを利用していない方はこちらをご利用ください。
 
 ## 本書についてのご質問
-本書についてのお問い合わせは、以下のページからお願いします。
-https://gihyo.jp/site/inquiry/book?978-4-7741-7423-5
+本書についてのお問い合わせは、以下のページからお願いします。  
+https://gihyo.jp/site/inquiry/book?978-4-7741-8928-4
 
 ## ソースコードについて
 本書の4章〜8章での修正済のsampleprojectに対するSeleniumテストコードです。
