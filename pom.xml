@@ -20,7 +20,7 @@
     
     <!-- Selenium Properties -->
     <selenium-java.version>3.4.0</selenium-java.version>
-    <selenium.baseUrl>http://localhost:8080/</selenium.baseUrl>
+    <selenium.baseUrl>http://localhost:8081/</selenium.baseUrl>
   </properties>
   
   <dependencies>
